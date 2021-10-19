@@ -6,7 +6,7 @@ Um array armazena items continuamente ou de maneira linear. Podemos armazenar em
 
 Vamos criar uma situacao hipotética, imagine que alguns amigos vao ao cinema. Compraram 5 cadeiras, no entanto, quando foram sentar, uma das cadeiras estavam ocupadas. Forcando a todos se moverem para ter espaco livre para as 5 pessoas.
 
-Embora todos se movam, podem cair no mesmo problema de espaco insuficiente, forcando os mesmos a moverem novamente. Logo, chegamos a uma outra solucao. Solicitar para ter mais de 5 espacos reservados, assim, as cadeiras seguintes, poderiam ser preenchidas sem problemas.
+Embora todos se movam, podem cair no mesmo problema de espaco insuficiente, forcando os mesmos a moverem novamente. Logo, chegamos a uma outra solucao. Solicitar para ter mais de 5 espacos reservados, assim, as cadeiras seguintes, poderiam ser preenchidas.
 
 Mas, mesmo assim, caimos em um outro problema, o desperdicio de espaco, pois, pode existir o cenario que todas as cadeiras reservadas, nao sejam ocupadas.
 
